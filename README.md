@@ -1,3 +1,9 @@
+![System Architecture](1.png)
+![Team](2.png)
+![ Car Models](4.png)
+
+
+
 GreenMove – EV Fleet Charging Optimization
 
 A smart optimization system that assigns electric vehicles (EVs) in a fleet to the best charging stations, minimizing travel distance, waiting time, and load imbalance. Inspired by Google Maps’ eco-routing and logistics optimization.
